@@ -53,7 +53,7 @@ fi
 # ----------------------------------------------------------
 # Create zero file
 
-CODENAME=bionic
+CODENAME=focal
 if [ $# -eq 2 ]; then
 	RAW_FILE=$2
     case ${TARGET_OS} in
